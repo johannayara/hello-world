@@ -1,7 +1,7 @@
 package serie1;
 import java.util.Scanner;
 public class Fondue {
-
+hdkwkdjw
 	public static void main(String[] args) {
 		int BASE = 4;
 		double fromage = 800.0;
@@ -20,7 +20,7 @@ public class Fondue {
 		System.out.println("- "+ eau+" dl. d'eau");
 		System.out.println("- "+ ail+" gousses d'ail");
 		System.out.println("- "+ pain+" gr. de pain");
-		System.out.println("- du poivre à volonté ");
+		System.out.println("- du poivre Ã  volontÃ© ");
 		keyb.close();
 		
 	}
