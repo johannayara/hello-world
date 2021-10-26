@@ -1,7 +1,6 @@
 package serie1;
 import java.util.Scanner;
 public class Fondue {
-hdkwkdjw
 	public static void main(String[] args) {
 		int BASE = 4;
 		double fromage = 800.0;
